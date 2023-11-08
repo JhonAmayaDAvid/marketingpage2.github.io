@@ -27,5 +27,5 @@
         </nav>
     </header>
     <div class="slider">
-<img src="http://localhost/Marketin-pagina/imagenes/business-5475661_1280.jpg" alt=""width="100%">
+<img src="https://github.com/JhonAmayaDAvid/marketingpage2.github.io/blob/main/business-5475661_1280.jpg" alt=""width="100%">
 </div >
